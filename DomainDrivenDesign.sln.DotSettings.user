@@ -1,10 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=377d2909_002D2567_002D4f8e_002Dbf2f_002D5e03deb154af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Money_objects_with_the_same_amount_should_be_equal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=377d2909_002D2567_002D4f8e_002Dbf2f_002D5e03deb154af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Money_objects_with_the_same_amount_should_be_equal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::D49F8836-868B-420B-90D9-47F3D3BE5E06::net6.0::MarketPlace.Tests.MoneyTest.Money_objects_with_the_same_amount_should_be_equal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D49F8836-868B-420B-90D9-47F3D3BE5E06::net6.0::MarketPlace.Tests.MoneyTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f613d028_002D5e10_002D4aec_002D9681_002De9d12b818e36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Money_objects_with_the_same_amount_should_be_equal #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f613d028_002D5e10_002D4aec_002D9681_002De9d12b818e36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Money_objects_with_the_same_amount_should_be_equal #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::D49F8836-868B-420B-90D9-47F3D3BE5E06::net6.0::MarketPlace.Tests.MoneyTest.Money_objects_with_the_same_amount_should_be_equal&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;

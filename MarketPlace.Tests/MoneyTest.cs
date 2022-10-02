@@ -15,9 +15,6 @@ public class MoneyTest
         var secondAmount = new Money(5);
         
         Assert.Equal(firstAmount, secondAmount);
-        
-        
-        
 
     }
 }

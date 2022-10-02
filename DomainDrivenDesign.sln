@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlace.Domain", "Marke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlace.Tests", "MarketPlace.Tests\MarketPlace.Tests.csproj", "{D49F8836-868B-420B-90D9-47F3D3BE5E06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlace.Framework", "MarketPlace.Framework\MarketPlace.Framework.csproj", "{EA82548A-3F0B-4ED1-AB5F-A34B13BB7D93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D49F8836-868B-420B-90D9-47F3D3BE5E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D49F8836-868B-420B-90D9-47F3D3BE5E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D49F8836-868B-420B-90D9-47F3D3BE5E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA82548A-3F0B-4ED1-AB5F-A34B13BB7D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA82548A-3F0B-4ED1-AB5F-A34B13BB7D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA82548A-3F0B-4ED1-AB5F-A34B13BB7D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA82548A-3F0B-4ED1-AB5F-A34B13BB7D93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
